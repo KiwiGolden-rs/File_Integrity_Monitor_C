@@ -1,0 +1,7 @@
+# Generated files
+*.o
+*.log
+file_integrity_monitor
+
+# Baseline
+/var/lib/integrity_monitor/baseline.txt
